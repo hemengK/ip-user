@@ -35,7 +35,7 @@
     <dependency>
       <artifactId>fastjson</artifactId>
       <groupId>com.alibaba</groupId>
-      <version>1.2.83</version>
+      <version>1.2.83_noneautotype</version>
     </dependency>
     <dependency>
       <groupId>com.google.protobuf</groupId>
