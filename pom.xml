@@ -17,7 +17,7 @@
         <java.version>17</java.version>
         <sonar.organization>hellohm</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.projectKey>helloHM_helloworld</sonar.projectKey>
+        <sonar.projectKey>hellohm:ip-user</sonar.projectKey>
     </properties>
     <dependencies>
         <dependency>
