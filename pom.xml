@@ -18,6 +18,7 @@
         <sonar.organization>hellohm</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.projectKey>hellohm:ip-user</sonar.projectKey>
+        <sonar.login>ba8c2d744aa459841b666357e8b5af0683f97259</sonar.login>
     </properties>
     <dependencies>
         <dependency>
