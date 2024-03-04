@@ -7,7 +7,8 @@ package com.example.demo.test;
  */
 public class SonarTest {
 
-    public void test(String k){
+    public void test(){
+        String k = null;
         if(k=="code") {
 
         } else if (k=="name")  {
