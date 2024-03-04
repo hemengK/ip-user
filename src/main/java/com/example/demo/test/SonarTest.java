@@ -1,11 +1,15 @@
 package com.example.demo.test;
 
+import java.util.regex.Pattern;
+
 /**
  * @Description
  * @Author admin
  * @Date 2024-03-04 17:14
  */
 public class SonarTest {
+
+    private static Pattern IMPORT_PATTERN = Pattern.compile("import(?:\\s+)(?:static\\s+)?(.*)(?:\\s*);");
 
     public void test(){
         String k = null;
